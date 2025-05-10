@@ -1,0 +1,70 @@
+{
+  "title": "Support",
+  "subtitle": "We're here to help",
+  "contactInfo": {
+    "title": "Contact Information",
+    "email": "support@CrossSend.app",
+    "response": "We typically respond within 24 hours."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "How does CrossSend work?",
+        "answer": "CrossSend creates a temporary web server on your device that other devices on the same network can connect to using a web browser. "
+      },
+      {
+        "question": "Is my data secure when using CrossSend?",
+        "answer": "Yes. All transfers happen only on your local network and the data never passes through any external servers."
+      },
+      {
+        "question": "Do I need to create an account?",
+        "answer": "No. CrossSend doesn't require any accounts, registration, or personal information."
+      },
+      {
+        "question": "Which file types can I share?",
+        "answer": "You can share virtually any file type, including documents, images, videos, audio files, and more."
+      },
+      {
+        "question": "Is there a file size limit?",
+        "answer": "There's no inherent file size limit in CrossSend. The only limitation is the available storage on your devices and the speed of your local network."
+      },
+      {
+        "question": "Can I use CrossSend across different platforms?",
+        "answer": "Yes! CrossSend is designed to work across iOS, Android, Windows, macOS, and Linux. The receiving device only needs a modern web browser."
+      }
+    ]
+  },
+  "troubleshooting": {
+    "title": "Troubleshooting",
+    "sections": [
+      {
+        "title": "Devices can't connect",
+        "steps": [
+          "Make sure all devices are connected to the same local network",
+          "Check if any firewall or security software might be blocking connections",
+          "Try restarting the CrossSend app",
+          "Verify that the receiving device has a modern, updated web browser"
+        ]
+      },
+      {
+        "title": "Slow transfer speeds",
+        "steps": [
+          "Move devices closer to your WiFi router",
+          "Reduce network congestion by disconnecting unused devices",
+          "Consider using a wired connection if possible",
+          "Check if your router supports 5GHz connections for faster speeds"
+        ]
+      },
+      {
+        "title": "App crashes or freezes",
+        "steps": [
+          "Update to the latest version of CrossSend",
+          "Restart your device",
+          "Clear the app cache",
+          "If problems persist, contact our support team with details about your device and OS"
+        ]
+      }
+    ]
+  }
+}

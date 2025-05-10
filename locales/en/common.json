@@ -1,0 +1,21 @@
+{
+  "htmlLang": "en",
+  "siteName": "CrossSend",
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "download": "Download",
+    "support": "Support"
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "download": "Download Now",
+    "contact": "Contact Us"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "langSwitch": "中文"
+}

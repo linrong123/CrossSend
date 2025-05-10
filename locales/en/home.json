@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "title": "Share Files Across Devices Effortlessly",
+    "subtitle": "CrossSend makes sharing files, media, and text between your devices simple with no apps needed on the receiving end.",
+    "cta": "Get Started"
+  },
+  "features": {
+    "title": "Key Features",
+    "list": [
+      {
+        "title": "No App Required for Receivers",
+        "description": "Just one device needs CrossSend installed. All others can use their web browser."
+      },
+      {
+        "title": "Local Network Only",
+        "description": "Your data never leaves your local network, ensuring maximum privacy and security."
+      },
+      {
+        "title": "Cross-Platform",
+        "description": "Works seamlessly across iOS, Android, Windows, macOS, and Linux."
+      },
+      {
+        "title": "Fast Transfers",
+        "description": "Transfer files at the maximum speed your local network allows."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": [
+      {
+        "title": "Install on One Device",
+        "description": "Install CrossSend on at least one of your devices."
+      },
+      {
+        "title": "Connect to Same Network",
+        "description": "Ensure all devices are on the same local network."
+      },
+      {
+        "title": "Scan or Enter URL",
+        "description": "Scan the QR code or enter the displayed URL on receiving devices."
+      },
+      {
+        "title": "Start Sharing",
+        "description": "Instantly share files, text, or media between devices."
+      }
+    ]
+  },
+  "download": {
+    "title": "Download CrossSend",
+    "subtitle": "Available for all major platforms",
+    "selectDevice": "Select Your Device",
+    "autoDetect": "We have detected your device. Click the button below to download the app directly for your device.",
+    "downloadNow": "Download Now",
+    "appStore": "Get it on App Store",
+    "googlePlay": "Get it on Google Play",
+    "directDownload": "Click to download directly",
+    "comingSoon": "Coming Soon",
+    "notifyMe": "Notify Me",
+    "notAvailable": "This platform version is under development and will be released soon. Leave your email to be notified when it's available.",
+    "emailPlaceholder": "Your email address",
+    "earlyAccess": "Apply for Early Access",
+    "joinBeta": "Join Beta Program",
+    "earlyAccessTitle": "Apply for Early Access",
+    "earlyAccessDesc": "Thanks for your interest in CrossSend! Fill out the form below to apply for early testing.",
+    "selectPlatform": "Select Platform",
+    "applyNow": "Apply Now",
+    "releaseDate": "Expected Release Date",
+    "inDevelopment": "In Development",
+    "categories": {
+      "mobile": "Mobile Devices",
+      "desktop": "Desktop Devices"
+    },
+    "devices": {
+      "iphone": "iPhone / iPad",
+      "android": "Android Device",
+      "macos": "macOS",
+      "windows": "Windows",
+      "linux": "Linux"
+    },
+    "platforms": {
+      "ios": "iOS App Store",
+      "android": "Google Play",
+      "desktop": "Desktop (Windows/macOS/Linux)"
+    },
+    "status": {
+      "available": "Available",
+      "beta": "Beta Testing",
+      "alpha": "Alpha Testing",
+      "development": "In Development",
+      "planned": "Planned"
+    }
+  }
+}

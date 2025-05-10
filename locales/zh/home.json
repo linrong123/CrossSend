@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "title": "轻松跨设备共享文件",
+    "subtitle": "CrossSend让在设备之间共享文件、媒体和文本变得简单，接收端无需安装应用程序。",
+    "cta": "开始使用"
+  },
+  "features": {
+    "title": "核心功能",
+    "list": [
+      {
+        "title": "接收端无需安装应用",
+        "description": "只需在一台设备上安装CrossSend。其他设备只需使用网页浏览器即可。"
+      },
+      {
+        "title": "仅限局域网",
+        "description": "您的数据从不离开本地网络，确保最大程度的隐私和安全。"
+      },
+      {
+        "title": "跨平台",
+        "description": "在iOS、Android、Windows、macOS和Linux上无缝运行。"
+      },
+      {
+        "title": "快速传输",
+        "description": "以本地网络允许的最大速度传输文件。"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "工作原理",
+    "steps": [
+      {
+        "title": "在一台设备上安装",
+        "description": "在您的至少一台设备上安装CrossSend。"
+      },
+      {
+        "title": "连接到同一网络",
+        "description": "确保所有设备都在同一个局域网中。"
+      },
+      {
+        "title": "扫描或输入网址",
+        "description": "在接收设备上扫描二维码或输入显示的网址。"
+      },
+      {
+        "title": "开始共享",
+        "description": "立即在设备之间共享文件、文本或媒体。"
+      }
+    ]
+  },
+  "download": {
+    "title": "下载CrossSend",
+    "subtitle": "适用于所有主要平台",
+    "selectDevice": "选择您的设备",
+    "autoDetect": "我们已经检测到您的设备，点击下方按钮直接下载适用于您设备的应用。",
+    "downloadNow": "立即下载",
+    "appStore": "前往App Store下载",
+    "googlePlay": "前往Google Play下载",
+    "directDownload": "点击直接下载",
+    "comingSoon": "即将到来",
+    "notifyMe": "通知我",
+    "notAvailable": "该平台版本正在开发中，即将推出。留下您的邮箱，我们会在发布时通知您。",
+    "emailPlaceholder": "您的邮箱地址",
+    "earlyAccess": "申请早期访问",
+    "joinBeta": "加入Beta测试",
+    "earlyAccessTitle": "申请早期访问",
+    "earlyAccessDesc": "感谢您对CrossSend的兴趣！填写以下信息申请成为早期测试用户。",
+    "selectPlatform": "选择平台",
+    "applyNow": "立即申请",
+    "releaseDate": "预计发布日期",
+    "inDevelopment": "开发中",
+    "categories": {
+      "mobile": "移动设备",
+      "desktop": "桌面设备"
+    },
+    "devices": {
+      "iphone": "iPhone / iPad",
+      "android": "Android设备",
+      "macos": "macOS",
+      "windows": "Windows",
+      "linux": "Linux"
+    },
+    "platforms": {
+      "ios": "iOS应用商店",
+      "android": "Google Play",
+      "desktop": "桌面端 (Windows/macOS/Linux)"
+    },
+    "status": {
+      "available": "可用",
+      "beta": "Beta测试中",
+      "alpha": "Alpha测试中",
+      "development": "开发中",
+      "planned": "计划中"
+    }
+  }
+}

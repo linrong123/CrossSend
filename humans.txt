@@ -1,0 +1,11 @@
+/* TEAM */
+	Developer: CrossSend Team
+	GitHub: @linrong
+	Contact: support@crosssend.app
+
+/* SITE */
+	Last update: 2025/05/09
+	Standards: HTML5, CSS3, JavaScript
+	Components: Astro, i18next
+	Language: English, Chinese
+	IDE: VS Code
