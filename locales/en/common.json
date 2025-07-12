@@ -1,6 +1,7 @@
 {
   "htmlLang": "en",
   "siteName": "CrossSend",
+  "siteDescription": "CrossSend - Secure cross-platform file sharing made simple. Transfer files between iPhone, Android, Windows, macOS, and Linux devices seamlessly.",
   "nav": {
     "home": "Home",
     "features": "Features",

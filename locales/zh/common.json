@@ -1,6 +1,7 @@
 {
   "htmlLang": "zh-CN",
   "siteName": "CrossSend",
+  "siteDescription": "CrossSend - 简单安全的跨平台文件共享。在 iPhone、Android、Windows、macOS 和 Linux 设备之间无缝传输文件。",
   "nav": {
     "home": "首页",
     "features": "功能",

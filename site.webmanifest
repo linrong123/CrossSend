@@ -1,0 +1,26 @@
+{
+  "name": "CrossSend",
+  "short_name": "CrossSend",
+  "description": "Secure cross-platform file sharing made simple",
+  "icons": [
+    {
+      "src": "/app_icon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#3a86ff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["utilities", "productivity"],
+  "prefer_related_applications": false
+}

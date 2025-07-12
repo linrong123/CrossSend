@@ -1,0 +1,41 @@
+# CrossSend App Robots.txt
+# Allow all web crawlers to access all content
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://crosssend.app/sitemap-index.xml
+
+# Crawl-delay for responsible crawling
+Crawl-delay: 1
+
+# Disallow access to any admin or private areas (if they exist in the future)
+# Disallow: /admin/
+# Disallow: /api/
+
+# Allow search engines to index everything
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# Block bad bots
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
